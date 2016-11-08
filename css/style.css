@@ -51,8 +51,14 @@ section, aside {
     float: none;
     margin: 0 auto;
 }
-
-
+.footer{
+  text-align: center;
+}
+.footer a {
+  color : white;
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
 /********GALLERIE***********/
 
